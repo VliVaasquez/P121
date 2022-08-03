@@ -1,0 +1,21 @@
+body {
+    background-color:grey;
+}
+
+.mini_result
+  {
+    
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  .test_image_and_result
+  {
+    float:  none;
+    background: red; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
